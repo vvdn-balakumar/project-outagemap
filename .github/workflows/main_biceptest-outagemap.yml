@@ -41,4 +41,4 @@ jobs:
           app-name: 'biceptest-outagemap'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4EA470F50A8C44B683FC1ED796C4C8F5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99992C22BDB3485EA5CCB73C6C3468E8 }}
