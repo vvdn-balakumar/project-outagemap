@@ -41,4 +41,4 @@ jobs:
           app-name: 'deltatest-outagemap'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AA496D80BB34760A412EADBD8C5A601 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E069141755E747C4B89D70D5CE9B0E4A }}
